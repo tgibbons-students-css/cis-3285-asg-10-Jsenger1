@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SingleResponsibilityPrinciple.AdoNet
+namespace CurrencyTrader.AdoNet
 {
     public class SynchTradeStorage : ITradeStorage
     {
